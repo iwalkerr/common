@@ -1,4 +1,4 @@
-package respw
+package httpx
 
 var message map[ErrorType]string
 

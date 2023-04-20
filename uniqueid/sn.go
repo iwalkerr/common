@@ -1,8 +1,8 @@
 package uniqueid
 
 import (
+	"common/toolx"
 	"fmt"
-	"fsmall/common/toolx"
 	"strings"
 	"time"
 )
